@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Beetroit
+- 👀 I’m interested in Artificial Intelligence, Machine learning and Data Science.
+- 🌱 I’m currently learning Python, and looking to start C and Javascript soon.
+- 📫 Feel free to contact me via whatsapp @+2349027208946 or facebook https://www.facebook.com/CryptoK3llz
