@@ -14,7 +14,7 @@
 - 🌱 I'm learning advanced Python, specifically the tech powering LLMs, Wave2vec and Segmentation models to improve my AI skills.
 - 📫 Open to collaborations and productive discussions.
 
-### My Stats:
+### My Github Stats:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=beetroit&show_icons=true&theme=omni" width="450"/>
@@ -37,20 +37,6 @@
 <img src="https://img.shields.io/badge/SciPy-8CACEA?style=for-the-badge&logo=scipy&logoColor=white" width="100"/>
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="150"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" width="150"/>
-</p>
-
-### My Github Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Beetroit&count_private=true&show_icons=true&theme=vue-dark" width="450"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beetroit&langs_count=8&layout=compact&theme=vue-dark" width="350"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Beetroit&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="450"/>
 </p>
 
 ## Github Trophies
