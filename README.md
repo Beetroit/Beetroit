@@ -44,7 +44,8 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Beetroit&theme=algolia&column=5" width="600"/>
 </p>
-
+## Dev Card
+<a href="https://app.daily.dev/danielchukwuemekaobiorah"><img src="https://api.daily.dev/devcards/v2/sV2Jm3TW0Tk234Nj35tjq.png?r=u1a&type=default" width="356" alt="Daniel Chukwuemeka Obiorah's Dev Card"/></a>
 ## Wakatime Stats
 
 <p align="center">
