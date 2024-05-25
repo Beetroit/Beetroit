@@ -8,7 +8,7 @@
 
 <div style="display: flex; justify-content: center;">
     <a href="https://app.daily.dev/danielchukwuemekaobiorah">
-        <img src="https://api.daily.dev/devcards/v2/sV2Jm3TW0Tk234Nj35tjq.png?r=u1a&type=default" width="356" alt="Daniel Chukwuemeka Obiorah's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/v2/sV2Jm3TW0Tk234Nj35tjq.png?r=u1a&type=wide" width="652" alt="Daniel Chukwuemeka Obiorah's Dev Card"/></a>
     </a>
 </div>
 
