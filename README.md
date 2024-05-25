@@ -6,13 +6,21 @@
 </a>
 </div>
 
+<div style="display: flex; justify-content: center;">
+    <a href="https://app.daily.dev/danielchukwuemekaobiorah">
+        <img src="https://api.daily.dev/devcards/v2/sV2Jm3TW0Tk234Nj35tjq.png?r=u1a&type=default" width="356" alt="Daniel Chukwuemeka Obiorah's Dev Card"/>
+    </a>
 </div>
+
+</div>
+
 
 ### Hi there 👋, I'm Daniel Obiorah
 
 - 🔭 I'm currently a Python AI developer, interested in AI, ML, Flask, and FastAPI.
 - 🌱 I'm learning advanced Python, specifically the tech powering LLMs, Wave2vec and Segmentation models to improve my AI skills.
 - 📫 Open to collaborations and productive discussions.
+
 
 ### My Github Stats:
 
@@ -44,8 +52,8 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Beetroit&theme=algolia&column=5" width="600"/>
 </p>
-## Dev Card
-<a href="https://app.daily.dev/danielchukwuemekaobiorah"><img src="https://api.daily.dev/devcards/v2/sV2Jm3TW0Tk234Nj35tjq.png?r=u1a&type=default" width="356" alt="Daniel Chukwuemeka Obiorah's Dev Card"/></a>
+
+
 ## Wakatime Stats
 
 <p align="center">
